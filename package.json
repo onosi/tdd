@@ -1,0 +1,16 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.27.1",
+    "jest": "^30.2.0"
+  }
+}
